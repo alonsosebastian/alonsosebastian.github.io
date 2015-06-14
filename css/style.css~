@@ -341,7 +341,7 @@ body a:hover{
 	padding:4.8em 0 0;
 }
 .text-info2{
-	padding:4em 0 0;
+	padding:4.8em 0 0;
 }
 .text-info h4{
 	color: #fff;
