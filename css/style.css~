@@ -341,7 +341,7 @@ body a:hover{
 	padding:4.8em 0 0;
 }
 .text-info2{
-	padding:4.8em 0 0;
+	padding:4em 0 0;
 }
 .text-info h4{
 	color: #fff;
@@ -373,7 +373,7 @@ body a:hover{
 .about-info{
 	margin: 5em 0em 0 0em;
 	float: right;
-	width: 37%;
+	width: 50%;
 }
 .about h3{
 	color:#000;

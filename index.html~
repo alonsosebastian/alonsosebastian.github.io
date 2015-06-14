@@ -69,7 +69,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<h1>Producción Inteligente Argentina</h1>
 				<p>Tecnología para el siglo 21</p>
 				<div class="read">
-					<a href="#" class="hvr-rectangle-out">READ MORE</a>
+					<a href="#portfolio" class="hvr-rectangle-out">READ MORE</a>
 				</div>
 			</div>
 		</div>
@@ -152,13 +152,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div id="about" class="about">
 		<div class="container">
 			<div class="about-info">
-				<h3>Michel Dupont
-					<span>There are many variations of passages</span></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
-					sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-					Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi 
-					ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
-					in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+				<h3>Sebastian Alonso
+					<span>Fundador y principal diseñador</span></h3>
+				<p>Luego de ser premiado en la competencia INNOVAR y obtener un Grand Award al representar a Argentina en la Intel ISEF (International Science and Engineering Fair), Sebastian se dedicó a estudiar políticas industriales Alemanas en el marco de "Industrie 4.0". Esto le permitió diseñar P.I.A. como una respuesta a un mercado internacional que avanza a pasos gigantes con el objetivo de posicionar a Argentina con una ventaja competitiva única. Sebastian también fue delegado Argentino en el World Business Dialogue 2014 en Alemania y Keynote Speaker en el World Youth Peace Summit en U.S.A.</p>
 				<div class="read1">
 					<a href="#contact" class="hvr-rectangle-out scroll">ME CONTACTER</a>
 				</div>
