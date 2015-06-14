@@ -4,10 +4,11 @@
 
 #swipebox-overlay img {
   border: none!important;
+  width:50% !important;
 }
 
 #swipebox-overlay {
-  width: 100%;
+  width: 100%!important;
   height: 100%;
   position: fixed;
   top: 0;
@@ -190,7 +191,7 @@
 /* Skin 
 --------------------------*/
 #swipebox-overlay {
-  background: #0d0d0d;
+  background:rgba(13, 13, 13, 0.88);
 }
 
 #swipebox-action, #swipebox-caption {
@@ -219,4 +220,16 @@
   font-size: 15px;
   line-height: 43px;
   font-family: Helvetica, Arial, sans-serif;
+}
+@media(max-width:768px){
+  #swipebox-slider .slide img {
+  display: inline-block;
+  max-height: 100%;
+  max-width: 91%;
+  }
+}
+@media(max-width:480px){
+#swipebox-overlay img {
+	  width: 80%!important;
+	}
 }
