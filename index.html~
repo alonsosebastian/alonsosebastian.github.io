@@ -95,7 +95,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</a>
 					</div>
 					<div class="portfolio-grid1">
-					<a href="images/4.jpg" class="b-link-stripe b-animate-go   swipebox"  title="">
+					<a class="b-link-stripe b-animate-go"  title="">
 						<img class="one" src="images/4.jpg" alt=" " title="Science Laboratory" />
 						<div class="b-wrapper">
 							<h2 class="b-animate b-from-left    b-delay03 ">
@@ -110,7 +110,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="col-md-6 portfolio-grid">
 					<div class="portfolio-grid1">
-					<a href="images/2.jpg" class="b-link-stripe b-animate-go   swipebox"  title="">
+					<a class="b-link-stripe b-animate-go"  title="">
 						<img class="one" src="images/2.jpg" alt=" " title="Science Laboratory" />
 						<div class="b-wrapper">
 							<h2 class="b-animate b-from-left    b-delay03 ">
@@ -123,7 +123,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</a>
 					</div>
 					<div class="portfolio-grid1">
-					<a href="images/3.jpg" class="b-link-stripe b-animate-go   swipebox"  title="">
+					<a class="b-link-stripe b-animate-go"  title="">
 						<img class="one" src="images/3.jpg" alt=" " title="Science Laboratory" />
 						<div class="b-wrapper">
 							<h2 class="b-animate b-from-left    b-delay03 ">
@@ -156,7 +156,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<span>Fundador y principal diseñador</span></h3>
 				<p>Luego de ser premiado en la competencia INNOVAR y obtener un Grand Award al representar a Argentina en la Intel ISEF (International Science and Engineering Fair), Sebastian se dedicó a estudiar políticas industriales Alemanas en el marco de "Industrie 4.0". Esto le permitió diseñar P.I.A. como una respuesta a un mercado internacional que avanza a pasos gigantes con el objetivo de posicionar a Argentina con una ventaja competitiva única. Sebastian también fue delegado Argentino en el World Business Dialogue 2014 en Alemania y Keynote Speaker en el World Youth Peace Summit en U.S.A.</p>
 				<div class="read">
-					<a href="#contact" class="hvr-rectangle-out scroll">Linkedin</a>
+					<a href="https://ar.linkedin.com/in/alonsebastian" class="hvr-rectangle-out scroll">Linkedin</a>
 				</div>
 			</div>
 		</div>
